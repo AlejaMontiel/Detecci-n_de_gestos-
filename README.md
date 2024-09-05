@@ -1,1 +1,1 @@
-# Detecci-n_de_gestos-
+# Deteccion_de_gestos
