@@ -19,7 +19,7 @@ st.markdown("Puedes usar esta app para identificar diferentes gestos.")
 
 # Cambia la imagen a una nueva que prefieras
 image = Image.open('nueva_imagen.jpg')  # Cambia 'nueva_imagen.jpg' por el nombre de tu nueva imagen
-st.image(image, width=350, caption="Ejemplo de entrada")
+st.image(image, width=350, caption="Reconoce gestos")
 
 with st.sidebar:
     st.subheader("Instrucciones")
